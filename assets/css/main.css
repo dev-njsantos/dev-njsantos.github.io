@@ -366,7 +366,7 @@ header {
   header .logo img {
     height: 15%;
     width: 15%;
-    margin-left: 150px;
+    margin-left: 170px;
   }
 }    
 @media screen and (min-width: 470px) and (max-width: 500px) {
