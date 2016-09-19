@@ -355,14 +355,14 @@ header {
     margin-bottom: 0px;
     margin-top: 10px; }
 
-@media screen and (min-width: 300px) and (max-width: 400px) {
+@media screen and (min-width: 300px) and (max-width: 420px) {
   header .logo img {
     height: 20%;
     width: 20%;
     margin-left: 130px; }
   header nav {
     text-align: center; } }
-@media screen and (min-width: 410px) and (max-width: 500px) {
+@media screen and (min-width: 470px) and (max-width: 500px) {
   header .logo img {
     height: 15%;
     width: 15%;
