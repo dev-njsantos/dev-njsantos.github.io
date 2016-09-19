@@ -1,0 +1,17 @@
+#Site Settings
+title: Hi! Im Neil
+email: njsantos.dev@gmail.com
+description: A Front-End Developer
+twitter_username: dev_njsantos
+github_username:  dev-njsantos
+
+# Build settings
+markdown: kramdown
+theme: minima
+permalink: pretty
+
+port: 9000
+
+sass:
+    sass_dir: assets/css
+    style: compressed
